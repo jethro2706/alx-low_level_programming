@@ -10,6 +10,6 @@ int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	getchar();
-	return (-1);
+	return ((-1));
 }
 
