@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/**
+	* 2-print_alphbet.c - prints "abcdefghijklmnopqrstuvwxyz"
+	*/
+
 int main(void)
 {
 	/*declare a variable*/
