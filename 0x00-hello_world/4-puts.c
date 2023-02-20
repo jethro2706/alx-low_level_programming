@@ -1,15 +1,11 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
  * main - Entry point
  *
- * Description: 'the program's description'
- *
- * Return: Always (-1) (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-	getchar();
-	return ((-1));
+	return (0);
 }
-
