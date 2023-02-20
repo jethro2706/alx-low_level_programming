@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main(a program that prints the alphabet)
+main=print alphbet
 
 int main(void)
 {
