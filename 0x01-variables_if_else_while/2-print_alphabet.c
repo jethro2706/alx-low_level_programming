@@ -10,8 +10,6 @@ int main(void)
 	/*print the value of the variable*/ 
 	putchar(alphabet);
 	}
-
 	putchar('\n');
 	return (0);
 }
-
