@@ -4,12 +4,12 @@
  *
  * Description: 'the program's description'
  *
- * Return: Always 0 (Success)
+ * Return: Always (-1) (Success)
  */
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
 	getchar();
-	return(1);
+	return (-1);
 }
 
