@@ -1,18 +1,16 @@
-#include <stdio.h>
-
 /**
-	* 2-print_alphbet.c - prints "abcdefghijklmnopqrstuvwxyz"
-	*/
-
+ * main - Prints the alphabet.
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
-	/*declare a variable*/
-	char alphabet;
+	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
+	int i;
 
-	for (alphabet = 'a'; alphabet <= 'z' ; alphabet++)
+	for (i = 0; i < 26; i++)
 	{
-	/*print the value of the variable*/
-	putchar(alphabet);
+		putchar(alp[i]);
 	}
 	putchar('\n');
 	return (0);
