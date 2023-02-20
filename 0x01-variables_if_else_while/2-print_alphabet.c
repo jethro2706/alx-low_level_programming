@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+main()
 {
 	/*declare a variable*/
 	char alphabet;
